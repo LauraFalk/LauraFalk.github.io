@@ -1,7 +1,24 @@
 ---
-title: "LauraFalk.github.io"
+title: "Laura Palacios Falk"
+about: 
+  template: trestles
+image: LauraPFalk.jpg
 ---
 
-This is a Quarto website.
+Laura Falk is a data scientist and ecologist. Her work has been focused on streams and springs monitoring in Sonoran Desert Ecosystems.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+**Education**
+
+M.S. in Data Science | 2023
+
+University of Arizona | Tucson, AZ
+
+B.S. in Renewable Natural Resources | 2013
+
+University of Arizona | Tucson, AZ
+
+B.S. in Animal Science | 2013
+
+University of Arizona | Tucson, AZ
+
