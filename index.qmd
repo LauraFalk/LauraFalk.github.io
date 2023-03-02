@@ -1,24 +1,24 @@
 ---
-title: "Laura Palacios Falk"
+title: "Laura P. Falk"
 about: 
   template: trestles
 image: LauraPFalk.jpg
 ---
 
-Laura Falk is a data scientist and ecologist. Her work has been focused on streams and springs monitoring in Sonoran Desert Ecosystems.
+Laura is a data scientist and ecologist. Her work is focused on long-term monitoring of streams and springs in arid lands.
 
-
+<br>
 **Education**
-
+<br><br>
 M.S. in Data Science | 2023
 
-University of Arizona | Tucson, AZ
-
+*University of Arizona | Tucson, AZ*
+<br><br><br>
 B.S. in Renewable Natural Resources | 2013
 
-University of Arizona | Tucson, AZ
-
+*University of Arizona | Tucson, AZ*
+<br><br>
 B.S. in Animal Science | 2013
 
-University of Arizona | Tucson, AZ
+*University of Arizona | Tucson, AZ*
 

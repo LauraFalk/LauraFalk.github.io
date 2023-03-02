@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Laura Falk"
+  title: "Laura Palacios Falk"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - work_example.qmd
+  
 
 format:
   html:

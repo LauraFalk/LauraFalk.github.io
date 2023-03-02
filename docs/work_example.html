@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Laura Palacios Falk - Laura P. Falk</title>
+<title>Laura Palacios Falk - Master’s Capstone</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -79,13 +80,13 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html">Publications</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./work_example.html">Master’s Capstone</a>
+    <a class="nav-link active" href="./work_example.html" aria-current="page">Master’s Capstone</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -97,31 +98,34 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="LauraPFalk.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Laura P. Falk</h1>
+<h1 class="title">Master’s Capstone</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
+  
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Laura is a data scientist and ecologist. Her work is focused on long-term monitoring of streams and springs in arid lands.</p>
-<p><br> <strong>Education</strong> <br><br> M.S. in Data Science | 2023</p>
-<p><em>University of Arizona | Tucson, AZ</em> <br><br><br> B.S. in Renewable Natural Resources | 2013</p>
-<p><em>University of Arizona | Tucson, AZ</em> <br><br> B.S. in Animal Science | 2013</p>
-<p><em>University of Arizona | Tucson, AZ</em></p>
+
+<iframe height="600" width="100%" frameborder="no" src="https://palacila.shinyapps.io/SantaCruz_Ecoli_ShinyApp/">
+</iframe>
 
 
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -142,6 +146,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

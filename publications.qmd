@@ -1,0 +1,39 @@
+---
+title: "Publications"
+---
+
+**Natural Resource Reports**
+
+*2022* <br>
+Raymond K, Palacios L, McIntyre C, Gwilliam E. Status of climate and water resources at Chiricahua National Monument, Coronado National Memorial, and Fort Bowie National Historic Site: Water year 2019. Natural Resource Report. NPS/SODN/NRR—2022/2378. National Park Service. Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/672404)
+
+*2021* <br>
+Raymond, K., L. Palacios, C. McIntyre, E.L. Gwilliam. 2021. Status of Climate and Water Resources at Saguaro National Park: Water Year 2019 NPS Natural Resource Report NPS/SODN/NRR-2021/2336. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/666924)
+
+*2020* <br>
+Raymond, K., L. Palacios, and C. McIntyre. 2020. Status of climate and water resources at Guadalupe Mountains National Park: Water year 2018. Natural Resource Report NPS/CHDN/NRR—2020/2132. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/641959)
+
+*2018* <br>
+Filippone, C., E. Gwilliam, L. Palacios, and K. Raymond. 2018. Status of climate and water resources at Tumacácori National Historical Park: Water year 2017. Natural Resource Report NPS/SODN/NRR—2018/1671. National Park Service, Fort Collins, Colorado   [![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/604562)
+
+Gwilliam, E. L., G. Goodrum, K. Raymond, and L. Palacios. 2018. Status of climate and water resources at Montezuma Castle and Tuzigoot National Monuments: Water Year 2017. Natural Resource Report NPS/SODN/NRR—2018/1692. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/604591)
+
+Gwilliam, E. L., J. A. Hubbard, L. Palacios, and K. Raymond. 2018. Status of climate and water resources at Gila Cliff Dwellings National Monument: Water year 2016. Natural Resource Report NPS/SODN/NRR—2018/1615. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/604552)
+
+*2017* <br>
+Gwilliam, E. L., K. Raymond, and L. Palacios. 2017. Status of climate and water resources at Montezuma Castle and Tuzigoot national monuments: Water year 2016. Natural Resource Report NPS/SODN/NRR—2017/1551. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/604575)
+
+
+**Monitoring Protocols**
+
+Gwilliam, E, C. McIntyre, A. Hubbard, K. Raymond, K. Bonebrake, L. Palacios. 2018. Streams monitoring protocol for the Sonoran Desert and Southern Plains Networks. Natural Resource Report NPS/SODN/NRR—2017/1787. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/609092)
+
+McIntyre, C., K. Gallo, E. Gwilliam, J. A. Hubbard, J. Christian K. Bonebrake, G. Goodrum, M. Podolinsky, L. Palacios, B. Cooper and M. Isley. 2018. Springs, seeps, and tinajas monitoring protocol: Chihuahuan and Sonoran Desert Networks. Natural Resource Report NPS/CHDN/NRR—2018/1796. National Park Service, Fort Collins, Colorado.
+[![Hyperlink](Link.png)](https://irma.nps.gov/DataStore/DownloadFile/610647)
