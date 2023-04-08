@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - publications.qmd
-      - work_example.qmd
+      - SantaCruzPredictions.qmd
   
 
 format:
