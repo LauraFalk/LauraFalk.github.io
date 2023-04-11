@@ -33,5 +33,12 @@
     "title": "Master’s Capstone",
     "section": "",
     "text": "Site Visitors"
+  },
+  {
+    "objectID": "Instruction.html",
+    "href": "Instruction.html",
+    "title": "Instruction",
+    "section": "",
+    "text": "GitHub Tutorial A beginners tutorial on how to use GitHub. \nR Coding Basics Basics lesson for R coding. \nR Code Data Wrangling Techniques This Repository contains a fill-in the blank instructional materials, with the suffix “Learner.RMD”. Files with the suffix “Main.RMD” and “Main.html” contain answers to the learner files.  Main (Answer) file previews are linked below.  Session 1   Session 2   Session 3"
   }
 ]
