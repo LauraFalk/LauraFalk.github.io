@@ -9,6 +9,9 @@ about:
     url: "https://github.com/laurafalk"
   - text: Email
     url: "mailto:palacila@arizona.edu"
+  - text: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/lfalk126"
 ---
 
 Laura is a data scientist with a career focused on data management, reporting and analytics. She specializes in long term datasets, ranging from ecology to human health surveillance. She has strong skills in R, Python and SQL and experience working in machine learning and database management. Laura has a strong organizational skills, a penchant for efficiency, and a love of nature.     
@@ -26,7 +29,7 @@ Laura is a data scientist with a career focused on data management, reporting an
 University of Arizona - Zuckerman College of Public Health<br>
 Department of Epidemiology and Biostatistics
 
-The Arizona CovHORT [Join Here!](https://covhort.arizona.edu/)
+The Arizona CoVHORT [Join Here!](https://covhort.arizona.edu/join)
  
 
 **Past Affiliations** <br>
@@ -38,4 +41,4 @@ University of Arizona - Data Science Institute <br>
 <br>
 <br>
 <br>
-Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19
+<span style="color:red;">Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19 </span>
