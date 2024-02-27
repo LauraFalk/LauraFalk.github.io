@@ -38,7 +38,4 @@ National Park Service - Southwest Network Collaborative <br>
 University of Arizona - Data Science Institute <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<span style="color:red;">Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19 </span>
+<span style="color:#FFFFFF;">Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19 </span>
