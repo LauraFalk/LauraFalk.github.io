@@ -1,28 +1,43 @@
 ---
-title: "Instruction"
+title: "Instruction and Presentations"
 ---
 
-Instructional materials were created in collaboration with Samantha Olivares-Mejia for the National Park Service Southwest Network Collaborative[![Hyperlink](Link.png)](https://www.nps.gov/im/chdn/swnc.htm). Materials are intended for users with little to no R coding experience. 
+**Instructional Materials**
 
-**GitHub Tutorial**
+Instructional materials were created in collaboration with Samantha Olivares-Mejia for the Southwest Network Collaboratione [![Hyperlink](Link.png)](https://www.nps.gov/im/chdn/swnc.htm). They are intended for users with little to no R coding experience. 
+
+*GitHub Tutorial* <br>
 A beginners tutorial on how to use GitHub.
 [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/sam-olivares-mejia/SWNC_2_Learning_Github/blob/main/Github_Basics.html)
 
-**R Coding Basics**
+*R Coding Basics* <br>
 Basics lesson for R coding.
 [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/R_Teaching/blob/main/Week_1_Basics.html)
 
-**R Code Data Wrangling Techniques**
+*R Code Data Wrangling Techniques* <br>
 This Repository contains a fill-in the blank instructional materials, with the suffix "Learner.RMD". Files with the suffix "Main.RMD" and "Main.html" contain answers to the learner files.
-  [![Hyperlink](Link.png)](https://github.com/LauraFalk/SWNC_3_Data_Wrangling)<br>
-Main (Answer) file previews are linked below.
-<br>
-*Session 1*
+  [![Hyperlink](Link.png)](https://github.com/LauraFalk/SWNC_3_Data_Wrangling)<br> <br>
+Main (Answer) file previews are linked below.<br>
+- Session 1
   [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling_Main.html)
 <br>
-*Session 2*
+- Session 2
   [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling2_Main.html)
   <br>
-*Session 3*
+- Session 3
   [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling3_Main.html)
 
+**Presentations**
+
+*WiDS Tucson 2025* [![Hyperlink](Link.png)](https://wids-tucson.github.io/) <br>
+- API Key Basics: Unlocking Data Possibilities 
+
+*Santa Cruz River Research Days 2023* [![Hyperlink](Link.png)](https://sonoraninstitute.org/events/scrrd-25/) <br>
+- Tree-Based Machine Learning Technology for remote, real-time Escherichia coli level
+prediction in the Upper Santa Cruz River
+
+*Tri-national Sonoran Desert Symposium 2019* [![Hyperlink](Link.png)](https://sonoraninstitute.org/events/scrrd-25/)<br>
+- Springs Monitoring Protocols in the Sonoran Desert Network. 
+
+*Santa Cruz River Research Days 2017* [![Hyperlink](Link.png)](https://sonoraninstitute.org/events/scrrd-25/)<br>
+- Ten Years of Ecosystem Monitoring at Tumacácori National Historical Park 

@@ -14,7 +14,7 @@ about:
     url: "https://www.linkedin.com/in/lfalk126"
 ---
 
-Laura is a data scientist with a career focused on data management, reporting, and analytics. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura brings deep technical expertise in R, Python, and SQL, with broad skills across data science, including database management, creating reproducible workflows, and applied machine learning. She is highly organized, efficiency-driven, and has a love of nature.
+Laura is a data scientist with a career focused on data management, reporting, and analytics. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura has strong technical expertise in R, Python, and SQL, and a wide range of skills in data science, including database management, creating reproducible workflows, and applying machine learning techniques. She is highly organized, efficiency-driven, and has a love of nature.
 <br>
 **Education**
 
@@ -34,7 +34,7 @@ The Arizona CoVHORT [Join Here!](https://covhort.arizona.edu/join)
 
 **Past Affiliations** <br>
 National Park Service - Sonoran Desert Network <br>
-National Park Service - Southwest Network Collaborative <br>
+National Park Service - Southwest Network Collaboration<br>
 University of Arizona - Data Science Institute <br>
 <br>
 <br>
