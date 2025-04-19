@@ -4,6 +4,7 @@ title: "Publications"
 **Public Health**
 *2025*
 Brown, K.P., Austhof, E., McFadden, C.M., Scranton, C., Sun, X., Vujkovic-Cviji, I., Rodriguez, D., Falk, L., Heslin, K.M., Arani, G. and Obergh, V., 2025. Determining the incidence, risk factors and biological drivers of irritable bowel syndrome (IBS) as part of the constellation of postacute sequelae of SARS-CoV-2 infection (PASC) outcomes in the Arizona CoVHORT-GI: a longitudinal cohort study. BMJ open, 15(1), p.e095093.
+[![Hyperlink](Link.png)](https://pubmed.ncbi.nlm.nih.gov/39890144/)
 
 **Natural Resource Reports**
 
