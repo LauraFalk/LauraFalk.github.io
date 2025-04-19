@@ -21,8 +21,8 @@ Main (Answer) file previews are linked below.
   [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling_Main.html)
 <br>
 *Session 2*
-  [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling2_Main.Rmd)
+  [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling2_Main.html)
   <br>
 *Session 3*
-  [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling3_Main.htmll)
+  [![Hyperlink](Link.png)](https://htmlpreview.github.io/?https://github.com/LauraFalk/SWNC_3_Data_Wrangling/blob/main/Data_Wrangling3_Main.html)
 

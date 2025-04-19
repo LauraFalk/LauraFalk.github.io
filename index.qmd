@@ -1,5 +1,5 @@
 ---
-title: "Laura Falk"
+title: "Laura Palacios Falk"
 about: 
   template: trestles
   image: LauraPFalk.jpg
@@ -14,7 +14,7 @@ about:
     url: "https://www.linkedin.com/in/lfalk126"
 ---
 
-Laura is a data scientist with a career focused on data management, reporting and analytics. She specializes in long term datasets, ranging from ecology to human health surveillance. She has strong skills in R, Python and SQL and experience working in machine learning and database management. Laura has a strong organizational skills, a penchant for efficiency, and a love of nature.     
+Laura is a data scientist with a career focused on data management, reporting, and analytics. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura brings deep technical expertise in R, Python, and SQL, with broad skills across data science, including database management, creating reproducible workflows, and applied machine learning. She is highly organized, efficiency-driven, and has a love of nature.
 <br>
 **Education**
 
