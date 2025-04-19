@@ -8,10 +8,13 @@ about:
     icon: github
     url: "https://github.com/laurafalk"
   - text: Email
-    url: "mailto:LFalk126@gmail.com"
+    url: "mailto:palacila@arizona.edu"
+  - text: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/lfalk126"
 ---
 
-Laura is a data scientist and ecologist who has spent the last 10+ years focused on long-term environmental monitoring in arid lands. She has worked in all aspects from data collection through data management, reporting and analytics. She has strong skills in R, Python and SQL and experience working in machine learning and database management. Laura has a strong organizational skills, a penchant for efficiency, and a love of nature.     
+Laura is a data scientist with a career focused on data management, reporting and analytics. She specializes in long term datasets, ranging from ecology to human health surveillance. She has strong skills in R, Python and SQL and experience working in machine learning and database management. Laura has a strong organizational skills, a penchant for efficiency, and a love of nature.     
 <br>
 **Education**
 
@@ -22,9 +25,12 @@ Laura is a data scientist and ecologist who has spent the last 10+ years focused
 * B.S. in Animal Science | 2013 <br>*University of Arizona*
 
 <br>
-**Current Affiliation**<br>
+**Current Affiliations**<br> 
 University of Arizona - Zuckerman College of Public Health<br>
 Department of Epidemiology and Biostatistics
+
+The Arizona CoVHORT [Join Here!](https://covhort.arizona.edu/join)
+ 
 
 **Past Affiliations** <br>
 National Park Service - Sonoran Desert Network <br>
@@ -32,7 +38,4 @@ National Park Service - Southwest Network Collaborative <br>
 University of Arizona - Data Science Institute <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli
+<span style="color:#FFFFFF;">Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19 </span>
