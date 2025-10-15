@@ -12,9 +12,14 @@ about:
   - text: LinkedIn
     icon: linkedin
     url: "https://www.linkedin.com/in/lfalk126"
+format:
+  html:
+    theme: cosmo
+    css: docs/styles.css
 ---
 
 Laura is a data scientist with a career focused on data management, reporting, and analytics. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura has strong technical expertise in R, Python, and SQL, and a wide range of skills in data science, including database management, creating reproducible workflows, and applying machine learning techniques. She is highly organized, efficiency-driven, and has a love of nature.
+<br>
 <br>
 **Education**
 
@@ -23,19 +28,18 @@ Laura is a data scientist with a career focused on data management, reporting, a
 * B.S. in Renewable Natural Resources | 2013 <br> *University of Arizona*
 
 * B.S. in Animal Science | 2013 <br>*University of Arizona*
-
 <br>
-**Current Affiliations**<br> 
-University of Arizona - Zuckerman College of Public Health<br>
-Department of Epidemiology and Biostatistics
 
-The Arizona CoVHORT [Join Here!](https://covhort.arizona.edu/join)
- 
-
+**Current Position: Data Scientist**<br>
+University of Arizona - Mel and Enid Zuckerman College of Public Health<br>
+Department of Epidemiology and Biostatistics<br>
+The Arizona CoVHORT [Join Here!](https://covhort.arizona.edu/join) <br>
+<br>
+**Volunteer Roles**<br>
+Pima County Food Alliance Volunteer<br>
+Arizona-Sonora Desert Museum Volunteer<br>
+<br>
 **Past Affiliations** <br>
 National Park Service - Sonoran Desert Network <br>
 National Park Service - Southwest Network Collaboration<br>
 University of Arizona - Data Science Institute <br>
-<br>
-<br>
-<span style="color:#FFFFFF;">Tags: Tucson, Lower Santa Cruz River, E. coli, Escherichia coli, COVID, Covid-19 </span>

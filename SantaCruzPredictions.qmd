@@ -3,7 +3,3 @@ title: "Master's Capstone"
 ---
 *Predictions are made in real-time. May take a moment to load.*
 <iframe height="1500" width="100%" frameborder="no" src="https://palacila.shinyapps.io/SantaCruz_Ecoli_ShinyApp/"> </iframe>
-
-<br><br>
-<center>*Site Visitors*</center>
-<script type="text/javascript" id="clustrmaps" //clustrmaps.com/map_v2.js?d=qoODyCwnac4EKVHj2NiTDg45ghoyz2mpKMkxYsv0bnI&cl=ffffff&w=a"></script>
