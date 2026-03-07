@@ -18,7 +18,7 @@ format:
     css: docs/styles.css
 ---
 
-Laura is a data scientist with a career focused on data management, reporting, and analytics. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura has strong technical expertise in R, Python, and SQL, and a wide range of skills in data science, including database management, creating reproducible workflows, and applying machine learning techniques. She is highly organized, efficiency-driven, and has a love of nature.
+Laura is a data scientist with a career focused on data analyics, reporting, and integration workflows. She specializes in long-term datasets, ranging from ecology to human health surveillance. Laura has strong technical expertise in R, Python, and SQL, and a wide range of skills in data science, including creating reproducible workflows, database management, and applying machine learning techniques. She is highly organized, efficiency-driven, and has a love of nature.
 <br>
 <br>
 **Current Roles** <br>

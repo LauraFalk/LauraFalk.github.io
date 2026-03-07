@@ -9,6 +9,12 @@ Authorship note: Materials published before 2023 appear under the name Laura Pal
 Brown, K.P., Austhof, E., McFadden, C.M., Scranton, C., Sun, X., Vujkovic-Cviji, I., Rodriguez, D., Falk, L., Heslin, K.M., Arani, G. and Obergh, V., 2025. Determining the incidence, risk factors and biological drivers of irritable bowel syndrome (IBS) as part of the constellation of postacute sequelae of SARS-CoV-2 infection (PASC) outcomes in the Arizona CoVHORT-GI: a longitudinal cohort study. BMJ open, 15(1), p.e095093.
 [![Hyperlink](Link.png)](https://pubmed.ncbi.nlm.nih.gov/39890144/)
 
+Catalfamo CJ, Jacobs ET, Falk LP, Lauro P, Ernst KC, Farland LV, et al. (2025) Concordance between self-reported SARS-CoV-2 positivity and laboratory-confirmed positivity. PLoS One 20(10): e0334102.
+[![Hyperlink](Link.png)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334102)
+
+Ejike, C.M., Falk, L.P., Pogreba-Brown, K. and Ernst, K., 2025. Long COVID and the Increased Risk of Food Insecurity Among Participants in Arizona CoVHORT: A matched cohort study. medRxiv, pp.2025-11.
+[![Hyperlink](Link.png)](https://www.medrxiv.org/content/10.1101/2025.11.14.25340219v1)
+
 **Natural Resource Reports**
 
 *2022* <br>
